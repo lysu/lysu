@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I am lysu 👋
+
+- 😄 I'm a Prorammger.
+- 🌱 I’m currently learning **Database System**.
+- 💬 Welcome to communicate with me.
 
 <!--
 **lysu/lysu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
